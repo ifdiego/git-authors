@@ -1,8 +1,10 @@
 # git-authors
 
-A Git alias for viewing commit statistics by author in a repo.
+A Git alias for viewing commit statistics by author in a repository.
 
-#### Quickstart
+![hero](example.png)
+
+#### Getting Started
 
 Download the installer with curl:
 ```bash
